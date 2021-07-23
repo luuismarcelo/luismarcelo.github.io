@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://luuismarcelo.me/sitemap.xml
+Sitemap: https://luismarcelo.me/sitemap.xml
